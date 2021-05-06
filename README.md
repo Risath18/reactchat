@@ -32,7 +32,7 @@ React loads up the UI which begins with the user selecting between the 2 Authors
 
 <image alt = "Step 4" src="./screenshots/step4.jpg"/>
 
-<em>Message appears in Blue, shows Jupiter's perspective</em>
+<em>Message appears in Grey, shows Earth's perspective</em>
 
 ---
 
